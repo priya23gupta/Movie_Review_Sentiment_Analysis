@@ -1,0 +1,35 @@
+1. Naive Bayes
+Accuracy: 0.6344
+Precision: 0.627
+Recall: 0.6344
+F1 Score: 0.6181
+
+2. KNN
+Accuracy: 0.7567
+Precision: 0.7491
+Recall: 0.7567
+F1 Score: 0.7497
+
+3. Logistic Regression
+Accuracy: 0.7078
+Precision: 0.702
+Recall: 0.7078
+F1 Score: 0.7023
+
+4. Decision Tree
+Accuracy: 0.8169
+Precision: 0.8115
+Recall: 0.8169
+F1 Score: 0.811
+
+5. Random Forest
+Accuracy: 0.5644
+Precision: 0.67
+Recall: 0.5644
+F1 Score: 0.5389
+
+Decision Tree performs the best.
+
+
+
+
